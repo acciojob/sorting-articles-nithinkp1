@@ -11,7 +11,7 @@ const bands = ['The Plot in You', 'The Devil Wears Prada', 'Pierce the Veil', 'N
     });
 
     // Get the UL element
-    const ul = document.getElementById("band");
+    const ul = document.getElementById("bands");
 
     // Display sorted list
     for (const band of sortedBands) {
